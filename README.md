@@ -11,7 +11,7 @@ Users can choose interactions with bar and bubble charts as well as metadata abo
 - Bubble chart representing bacteria cultures for each sample
 
 
-## Visit 
+## View
 - Dashboard https://arkhanks.github.io/belly-button-challenge/
 - Repository https://github.com/arkhanks/belly-button-challenge.git
 

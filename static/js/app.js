@@ -8,7 +8,7 @@ function buildMetadata(sample) {
 
     // Filter the metadata for the object with the desired sample number
     let result = metadata.filter(meta => meta.id ==sample)[0];
-    console.log("Filtered Metadata: ", result);  // Log the filtered metadata for the selected sample
+    console.log("Filtered Metadata: ", result);  // Log the filtered metadata 
 
     // Use d3 to select the panel with id of `#sample-metadata`
     let metadataPanel = d3.select('#sample-metadata');
@@ -135,7 +135,7 @@ function init() {
 
     // Get the first sample from the list
     let firstSample =sampleNames[0];
-    console.log("First Sample: ", firstSample);  // Log the first sample to be used
+    console.log("First Sample: ", firstSample);  // Log the first sample
 
     // Build charts and metadata panel with the first sample
     buildCharts(firstSample);
