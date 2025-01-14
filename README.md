@@ -12,6 +12,10 @@ Users can choose interactions with bar and bubble charts as well as metadata abo
 
 
 ## Visit 
+- Dashboard https://arkhanks.github.io/belly-button-challenge/
+- Repository https://github.com/arkhanks/belly-button-challenge.git
+
+
 
 
 
@@ -23,8 +27,9 @@ Users can choose interactions with bar and bubble charts as well as metadata abo
 
 Reference:
 chatGPT for 
-help with loops
-help with the bubble chart creation
-help with sorting the data for the bar chart
-help with the mapping the OTU_ids for the yticks on the bar chart
+help with loops,
+help with console logs,
+help with the bubble chart creation,
+help with sorting the data for the bar chart,
+help with the mapping the OTU_ids for the yticks on the bar chart,
 help with populating the select options on the dropdown menu
